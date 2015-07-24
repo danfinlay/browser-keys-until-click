@@ -1,0 +1,11 @@
+{
+  "name": "keys-until-click",
+  "version": "1.0.0",
+  "description": "A simple browser function to capture keys until the next click.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Finlay <dan@danfinlay.com>",
+  "license": "ISC"
+}
