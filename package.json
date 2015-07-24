@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dan Finlay <dan@danfinlay.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flyswatter/browser-keys-until-click.git"
+  },
+  "keywords": [
+    "keypress",
+    "click",
+    "until"
+  ],
+  "bugs": {
+    "url": "https://github.com/flyswatter/browser-keys-until-click/issues"
+  },
+  "homepage": "https://github.com/flyswatter/browser-keys-until-click"
 }
